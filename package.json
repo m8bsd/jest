@@ -1,0 +1,24 @@
+{
+  "name": "internal-social-network",
+  "version": "1.1.0",
+  "description": "Internal network for companies",
+  "homepage": "https://github.com/MarcHamacek/internal-social-network#readme",
+  "bugs": {
+    "url": "https://github.com/MarcHamacek/internal-social-network/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcHamacek/internal-social-network.git"
+  },
+  "license": "ISC",
+  "author": "Marc Hamacek",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^3.7.4",
+    "prettier-plugin-sort-imports": "^1.8.8"
+  }
+}
